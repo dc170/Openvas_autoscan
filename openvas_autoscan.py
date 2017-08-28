@@ -160,7 +160,7 @@ def get_report_xml(rid, psw):
 # MAIN ()
 # El flag de debug serveix per mostrar el que fem en cada moment (outputs)
 
-psw="4tD)MZ0;f?lA" # PASSWORD D'OPENVAS
+psw="**********" # PASSWORD D'OPENVAS
 
 
 parser = argparse.ArgumentParser()
